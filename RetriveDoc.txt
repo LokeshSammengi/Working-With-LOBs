@@ -1,0 +1,5 @@
+Name : lokesh
+age : 23
+marital status : false
+company : null
+sal : nill
